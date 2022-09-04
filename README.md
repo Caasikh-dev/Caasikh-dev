@@ -18,7 +18,6 @@
   <img align="center" alt="Isaac-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Isaac-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="Isaac-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" >
-  <img align="right" alt="Isaac-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/882054778371309619/882054778371309621/1016044315493007382">
 </div>
 
 ##
